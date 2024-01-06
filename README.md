@@ -1,5 +1,5 @@
-# Cache-Simulator
-COL216 - Computer Architecture
+# software-Simulator for cache memory
+Computer Architecture
 
 ## Developing a Simulation Software for Cache Memory
 The simulated cache will have the general functionality, but with a new Replacement Policy that works as follows. \
